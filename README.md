@@ -1,0 +1,2 @@
+# Web-scraping
+Web scraping é uma técnica de extração de dados utilizada para coletar dados de sites. Por meio de processos automatizados, implementados usando um rastreador bot, esse tipo de “raspagem” de informações é uma forma de realizar cópias de dados em que informações específicas são coletadas e copiadas da web, tipicamente em um banco de dados ou planilha local central, para posterior recuperação ou análise. Fonte: ' https://digital.br.synnex.com/o-que-e-web-scraping '
